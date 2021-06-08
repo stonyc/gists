@@ -1,9 +1,9 @@
-# **`BARE METAL INSTALL OF JUPYTER HUB`**
+### **`BARE METAL INSTALL OF JUPYTER HUB`**
 
 Requirements:
 * Ubuntu v20.04
 
-### **`SETUP`**
+##### **`SETUP`**
 
 Setup JupyterHub and JupyterLab in a virtual environment:
 

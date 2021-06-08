@@ -1,4 +1,4 @@
-### **`SYSTEM ACCESS TO CONDA`**
+##### **`SYSTEM ACCESS TO CONDA`**
 
 Install `conda` for the whole system:
 
@@ -45,10 +45,10 @@ Instructions for user-created `conda` environments:
 /path/to/kernel/env/bin/python -m ipykernel install --name 'python-my-env' --display-name "Python My Env"
 ```
 
-### **`QUICK START`**
+##### **`QUICK START`**
 
 Go to the following website: `http://<your-domain-name>:8080` and log-in with your server username and password.
 
-### **`REFERENCES`**
+##### **`REFERENCES`**
 
 https://jupyterhub.readthedocs.io/en/stable/installation-guide-hard.html

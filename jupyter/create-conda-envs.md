@@ -1,17 +1,17 @@
-# **Before You Begin**
+### **Before You Begin**
 
-**Please note the following rules:**
+**Please note the following:**
 
 * Please use the `sudo` command listed below very carefully, `sudo` gives you `superuser` privileges on the server. **With great power, comes great responsibility!**
 * Please do not save new `Jupyter Notebooks` to your `/home` directory, instead all notebooks should be saved to your `data/` directory.
 * Finally, please try not to save files or install programs to your `/home` directory. Storage space should be used wisely because we have many users.
 
-# **`Quick Start`**
+##### **`Quick Start`**
 
 Open a web browser (`Chrome` or `Firefox`) and go to: <a href="http://jupyter.cj.net:8080" target="_blank">**`http://jupyter.cj.net:8080`**</a> (or click to open in a new window).
 
 
-# **`Create Account`**
+##### **`Create Account`**
 
 Enter your preferred username and password:
 
@@ -21,7 +21,7 @@ You will then be taken to the following page:
 
 ![hub](assets/jupyter-hub.png)
 
-# **`Jupyter Hub`**
+##### **`Jupyter Hub`**
 
 On this page, you can do the following:
 
@@ -30,7 +30,7 @@ On this page, you can do the following:
 * Start a `Python Console` to access `Python` directly
 * Create a new `Text File` or `Markdown File`
 
-# **`Jupyter Notebook`**
+##### **`Jupyter Notebook`**
 
 Let's create a new `Jupyter Notebook`, click on the box labeled `Python (default)`:
 
@@ -50,7 +50,7 @@ matplotlib
 seaborn
 ```
 
-# **`Create Custom Notebooks`**
+##### **`Create Custom Notebooks`**
 
 To create customized notebooks with access to different packages, you must open a `Terminal` window and enter the following (add your desired `Anaconda` channels and `packages`). For example, let's create a new `conda` environment for [`MAGELLAN`](http://gitlab.cj.net/it/magellan).
 
