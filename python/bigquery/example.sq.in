@@ -1,0 +1,6 @@
+SELECT user
+     , company_name
+     , salary
+FROM `${GCP_PROJECT}.{BQ_DATASET}.${SOURCE_TABLE}`
+WHERE 1 = 1
+AND partition_date = ${PARTITION}
