@@ -1,6 +1,6 @@
 # Build a recency, frequency and monetary (RFM) model in PySpark:
 
-Given a table of customer orders over the past 90-days, such as:
+Given a table of customer orders over the past 90-days, with columns:
 
 ```bash
 customer_id	last_order	num_orders	total_revenue
