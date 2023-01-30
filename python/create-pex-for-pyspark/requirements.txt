@@ -1,0 +1,21 @@
+pyyaml
+docopt
+cython
+pyarrow
+pandas
+numpy
+scipy
+scikit-learn
+# thrift==0.16.0
+# sasl3==0.2.11
+# pyhive[hive]==0.6.5
+impyla
+thrift
+sasl3
+thrift-sasl
+pyhive[hive]
+pyspark==3.1.2
+google-cloud-bigquery
+google-cloud-storage
+db-dtypes
+
